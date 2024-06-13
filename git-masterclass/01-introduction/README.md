@@ -1,1 +1,1 @@
-This is Rapid Tech not HardCore Tech
+This commit is coming from 01-setup
